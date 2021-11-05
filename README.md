@@ -13,6 +13,8 @@
 
 ### Planning Stage
 
+**Note: Please have one person fill in this form to provide links to your diagrams, stories, wireframes etc: https://docs.google.com/forms/d/1GB3i173mTpsIF4nL4CANUZ68_oholGbl-_G1fU661bA/edit**
+
 - Must have User Stories for core application features
 - Must have Entity Relationship Diagrams which are kept up to date
 - Must have Wireframes for the frontend application
