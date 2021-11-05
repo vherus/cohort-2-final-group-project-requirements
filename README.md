@@ -1,13 +1,3 @@
-# 8th Nov 2021
-
-Cohort: 2
-End of Project Survey: https://docs.google.com/forms/d/1ynF2FdxcUKm_0VflxWTwO6ixegpTfzsdFOiLfe0HYdY/edit
-Module: API's & React
-Sprints: 2
-Status: Not Started
-Student Resources: https://docs.google.com/forms/d/1GB3i173mTpsIF4nL4CANUZ68_oholGbl-_G1fU661bA/edit
-Type: Group
-
 # Learning Objectives
 
 ---
