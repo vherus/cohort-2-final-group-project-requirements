@@ -74,11 +74,17 @@
     git clone <repository>
     git checkout -b student_name/feature_name
     ... write code ...
+    git add .
     git commit -m ""
-    git rebase main
-    ... write code ...
+    git pull origin main
+    ... write code, resolve any conflicts ...
+    git add .
     git commit -m ""
-    git rebase main
-    git push, create PR // keep force in mind
+    git pull origin main
+    ... resolve any conflicts ...
+    git add .
+    git commit -m ""
+    git push origin student_name/feature_name
+    // Create a PR
     ```
     
