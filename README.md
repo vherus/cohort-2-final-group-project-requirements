@@ -84,7 +84,7 @@
     ... resolve any conflicts ...
     git add .
     git commit -m ""
-    git push origin student_name/feature_name
+    git push -u origin student_name/feature_name
     // Create a PR
     ```
     
